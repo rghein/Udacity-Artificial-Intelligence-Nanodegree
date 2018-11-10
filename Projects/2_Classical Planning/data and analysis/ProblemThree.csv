@@ -1,0 +1,12 @@
+Search Algorithm,Actions,Expansions,Goal Tests,New Nodes,Path Length,Time in seconds
+Breadth First Search,88,14663,18098,129625,12,1.708
+Depth First Search,88,408,409,3364,392,0.410
+Uniform Cost Search,88,18510,18512,161936,12,2.842
+Greedy Best First Graph Search With Unmet Goals Heuristic,88,25,27,230,15,0.087
+Greedy Best First Graph Search With Level Sum Heuristic,88,14,16,126,14,2.172
+Greedy Best First Graph Search With Max Level Heuristic,88,21,23,195,13,1.097
+Greedy Best First Graph Search With Set Level Heuristic,88,35,37,345,17,11.383
+A* Search With Unmet Goals Heuristic,88,7388,7390,65711,12,2.421
+A* Search With Level Sum Heuristic,88,369,371,3403,12,21.490
+A* Search With Max Level Heuristic,88,9580,9582,86312,12,355.126
+A* Search With Set Level Heuristic,88,3423,3425,31596,12,846.396
