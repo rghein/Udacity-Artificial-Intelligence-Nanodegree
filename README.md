@@ -1,4 +1,6 @@
-# Artificial Intelligence Nanodegree Program Resources
+# Udacity-Artificial-Intelligence-Nanodegree
+
+This repository contains project work for Udacity's [Artificial Intelligence Nanodegree](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898).
 
 ## Classroom Exercises
 
