@@ -2,7 +2,7 @@
 
 This repository contains project work for Udacity's [Artificial Intelligence Nanodegree](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898).
 
-## Classroom Exercises
+## Exercises
 
 ### 1. Constraint Satisfaction Problems
 Explore Constraint Satisfaction Problems in a Jupyter notebook and use a CSP solver to solve a variety of problems.
@@ -10,17 +10,7 @@ Explore Constraint Satisfaction Problems in a Jupyter notebook and use a CSP sol
 Read more [here](/Exercises/1_Constraint%20Satisfaction)
 
 
-### 2. Classical Search for PacMan (only in classroom)
-
-**Please DO NOT publish your work on this exercise.**
-
-Teach Pac-Man to search his world to complete the following tasks:
-* find a single obstacle
-* find multiple obstacles
-* find the fastest way to eat all the food in the map
-
-
-### 3. Local Search Optimization
+### 2. Local Search Optimization
 
 Implement several local search algorithms and test them on the [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) (TSP) between a few dozen US state capitals.
 
