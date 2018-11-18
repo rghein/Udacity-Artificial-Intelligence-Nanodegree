@@ -16,12 +16,6 @@ Read more [here](/Exercises/1_Constraint%20Satisfaction)
 The Pac-Man search project was designed at UC-Berkeley.
 The designers have requested that code solutions not be published or shared.
 
-Teach Pac-Man to search his world to complete the following tasks:
-
-    find a single obstacle
-    find multiple obstacles
-    find the fastest way to eat all the food in the map
-
 Read more [here](http://ai.berkeley.edu/search.html)
 
 
